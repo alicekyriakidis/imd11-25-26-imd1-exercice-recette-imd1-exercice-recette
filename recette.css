@@ -18,7 +18,6 @@ ul {
 }
 .carte {
   width: 319px;
-  height: 700spx;
   border-radius: 20px;
   border: 3px solid #fff;
 
@@ -27,12 +26,18 @@ ul {
 }
 .autre2 {
   width: 258px;
-  height: 60px;
   border-radius: 20px;
   background: #dac2a5;
   margin: 15px;
   padding: 15px;
   border: 3px solid #fff;
+}
+.autre3 {
+  width: 184px;
+  border-radius: 20px;
+  background: #dac2a5;
+  border: 3px solid #fff;
+  margin: 70px;
 }
 p {
   text-align: center;
@@ -41,8 +46,6 @@ p {
   font-size: 30px;
 }
 .autre {
-  width: 258px;
-  height: 200px;
   border-radius: 20px;
   background: #dac2a5;
   margin: 15px;
@@ -51,9 +54,9 @@ p {
 }
 img {
   width: 143px;
-  height: 129px;
   aspect-ratio: 143/129;
-  margin-left: 90px;
+  margin: 20px;
+
   border-radius: 20px;
   border: 3px solid #fff;
 }
