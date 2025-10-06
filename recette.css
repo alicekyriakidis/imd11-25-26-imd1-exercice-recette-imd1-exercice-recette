@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 200px;
+  background: #dac2a5;
+  font-family: italianno;
+}
+h1 {
+  text-align: center;
+  color: #fff;
+  font-family: Italianno;
+  font-size: 64px;
+}
+ul {
+  padding-left: 50px;
+  color: #fff;
+  font-family: Italianno;
+  font-size: 23px;
+}
+.carte {
+  width: 319px;
+  height: 700spx;
+  border-radius: 20px;
+  border: 3px solid #fff;
+
+  background: #a77660;
+  box-shadow: 42px 42px 84px #9d9d9d, -42px -42px 84px #ffffff;
+}
+.autre2 {
+  width: 258px;
+  height: 60px;
+  border-radius: 20px;
+  background: #dac2a5;
+  margin: 15px;
+  padding: 15px;
+  border: 3px solid #fff;
+}
+p {
+  text-align: center;
+  color: #fff;
+  font-family: Italianno;
+  font-size: 23px;
+}
+.autre {
+  width: 258px;
+  height: 200px;
+  border-radius: 20px;
+  background: #dac2a5;
+  margin: 15px;
+  padding: 15px;
+  border: 3px solid #fff;
+}
+img {
+  width: 143px;
+  height: 129px;
+  aspect-ratio: 143/129;
+  margin-left: 90px;
+  border-radius: 20px;
+  border: 3px solid #fff;
+}
